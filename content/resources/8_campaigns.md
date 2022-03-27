@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 40149e46-aec9-beb2-f5a6-7567352a5d14
 resourcetype: Document
 title: 8_campaigns.pdf
 uid: 21c00b1c-9dde-058c-edd0-dce5b744a107

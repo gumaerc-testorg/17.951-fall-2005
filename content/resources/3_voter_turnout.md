@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 40149e46-aec9-beb2-f5a6-7567352a5d14
 resourcetype: Document
 title: 3_voter_turnout.pdf
 uid: 46ee7f3f-b79d-9447-490d-5d0655cdd312

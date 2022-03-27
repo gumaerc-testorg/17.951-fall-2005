@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 40149e46-aec9-beb2-f5a6-7567352a5d14
 resourcetype: Document
 title: 2_participation.pdf
 uid: 6e011636-7215-ee33-5502-dd0f8cb680bf

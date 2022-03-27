@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 40149e46-aec9-beb2-f5a6-7567352a5d14
 resourcetype: Document
 title: 4_policy.pdf
 uid: 9c4e9219-38c6-8bfb-7f71-b8c5f75ece58
