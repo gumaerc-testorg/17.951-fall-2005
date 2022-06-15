@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus section contains course requirements, grades, and calendar
+  for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

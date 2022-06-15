@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/70beee822b7ca01d929440770dd09afe_4_party_id.pdf
+file: /courses/17-951-special-graduate-topic-in-political-science-political-behavior-fall-2005/70beee822b7ca01d929440770dd09afe_4_party_id.pdf
 file_type: application/octet-stream
 learning_resource_types:
 - Readings
