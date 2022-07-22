@@ -6,6 +6,7 @@ file: /courses/17-951-special-graduate-topic-in-political-science-political-beha
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 5_party_id.pdf
 uid: 8b21b49c-e471-bbfb-7c8d-6f5f77c737cf
 ---
 This resource contains discussion questions related to American Voter, party identification, and realignments of party.
-

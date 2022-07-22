@@ -5,6 +5,7 @@ file: /courses/17-951-special-graduate-topic-in-political-science-political-beha
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 9_media.pdf
 uid: 14504522-a30c-8b39-3b21-66f79518e25e
 ---
 This resource contains discussion questions related to media, and internet.
-

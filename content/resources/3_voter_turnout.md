@@ -6,6 +6,7 @@ file: /courses/17-951-special-graduate-topic-in-political-science-political-beha
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 3_voter_turnout.pdf
 uid: 46ee7f3f-b79d-9447-490d-5d0655cdd312
 ---
 This resource contains discussion questions related to factors of voter turnout, role of education, voter bill, etc.
-

@@ -6,6 +6,7 @@ file: /courses/17-951-special-graduate-topic-in-political-science-political-beha
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 7_information.pdf
 uid: 9300b044-ec09-cf25-7410-7b0a76b7a9b4
 ---
 This resource contains discussion questions related to political information, decisions, and skill set.
-

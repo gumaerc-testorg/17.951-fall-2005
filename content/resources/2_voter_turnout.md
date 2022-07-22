@@ -7,6 +7,7 @@ file: /courses/17-951-special-graduate-topic-in-political-science-political-beha
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 2_voter_turnout.pdf
 uid: 04e3c967-7adb-b422-3e13-5aec2a692b06
 ---
 This resource contains discussion questions related to factors in voter turnout, Plutzer?s developmental model of voting, and reforms aimed at increasing turnout.
-

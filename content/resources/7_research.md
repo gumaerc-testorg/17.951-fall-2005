@@ -6,6 +6,7 @@ file: /courses/17-951-special-graduate-topic-in-political-science-political-beha
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 7_research.pdf
 uid: 6f44da47-1f5e-0197-866e-768c430d3fc4
 ---
 This resource contains discussion questions related to methodological problem.
-

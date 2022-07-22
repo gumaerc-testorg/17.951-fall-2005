@@ -6,6 +6,7 @@ file: /courses/17-951-special-graduate-topic-in-political-science-political-beha
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 8_campaigns.pdf
 uid: 21c00b1c-9dde-058c-edd0-dce5b744a107
 ---
 This resource contains discussion questions related to events of campaigns and advertising advantage.
-

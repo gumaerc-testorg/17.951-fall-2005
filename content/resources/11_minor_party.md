@@ -6,6 +6,7 @@ file: /courses/17-951-special-graduate-topic-in-political-science-political-beha
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 11_minor_party.pdf
 uid: d777008e-8175-5f15-60d0-1147d65336fa
 ---
 This resource contains discussion questions related to american political system, and strategic voting.
-

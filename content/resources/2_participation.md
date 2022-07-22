@@ -6,6 +6,7 @@ file: /courses/17-951-special-graduate-topic-in-political-science-political-beha
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 2_participation.pdf
 uid: 6e011636-7215-ee33-5502-dd0f8cb680bf
 ---
 This resource contains discussion questions related to political acts, socioeconomic, civic voluntarism, and participation.
-

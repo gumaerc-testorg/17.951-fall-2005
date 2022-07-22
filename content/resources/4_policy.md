@@ -7,6 +7,7 @@ file: /courses/17-951-special-graduate-topic-in-political-science-political-beha
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 4_policy.pdf
 uid: 9c4e9219-38c6-8bfb-7f71-b8c5f75ece58
 ---
 This resource contains discussion questions related to participatory factors ? resources, engagement, and mobilization; social security, differences between AFDC and social security disability, etc.
-

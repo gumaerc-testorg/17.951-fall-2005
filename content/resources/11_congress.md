@@ -6,6 +6,7 @@ file: /courses/17-951-special-graduate-topic-in-political-science-political-beha
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 11_congress.pdf
 uid: efb78d12-e792-fdd3-a135-942539bd8741
 ---
 This resource contains discussion questions related to incumbency advantage, challengers, turnout, midterm elections, and democrats.
-
