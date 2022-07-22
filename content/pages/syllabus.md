@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus section contains course requirements, grades, and calendar
+  for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: e6bd8133-675c-0966-1712-01635413a2b2
 ---

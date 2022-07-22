@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The study materials section features a cribsheet on the different theories
+  covered in this course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: d01f33be-55a7-2cb6-27c1-3cdc13f14b97
 ---
@@ -20,7 +24,7 @@ The majority of your grade – 60 percent – will be based on a final article-l
 
 An abstract or prospectus for this paper is due at the Media Effects class meeting. The abstract should pose your questions and hypotheses and outline your analysis strategy: the data and methods you will use to address these questions. The instructors will provide written feedback on your abstract.
 
-Your paper should ask a question that can be addressed empirically. You may wish to tweak an existing model of political behavior, including new variables. Or you may consider testing an approach previously used for one kind of dependent variable on another – seeing whether Plutzer's developmental model of voting (see the Voter Turnout readings in the [readings]({{< baseurl >}}/pages/readings) section) applies to other phenomena such as party identification or ideological self-identification, for example. Many topics in political behavior are permissible; we urge you to consult the instructors about ideas for data sources and approaches.
+Your paper should ask a question that can be addressed empirically. You may wish to tweak an existing model of political behavior, including new variables. Or you may consider testing an approach previously used for one kind of dependent variable on another – seeing whether Plutzer's developmental model of voting (see the Voter Turnout readings in the {{% resource_link 40149e46-aec9-beb2-f5a6-7567352a5d14 "readings" %}} section) applies to other phenomena such as party identification or ideological self-identification, for example. Many topics in political behavior are permissible; we urge you to consult the instructors about ideas for data sources and approaches.
 
 This section features a cribsheet on the different theories covered in this course.
 
