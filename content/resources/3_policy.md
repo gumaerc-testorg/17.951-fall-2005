@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/17-951-special-graduate-topic-in-political-science-political-behavior-fall-2005/65e972964e09ef168b07504a612f6cac_3_policy.pdf
+file_size: 69645
 file_type: application/pdf
 learning_resource_types:
 - Readings
