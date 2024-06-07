@@ -4,6 +4,7 @@ description: This resource contains discussion questions related to participator
   factors ? resources, engagement, and mobilization; social security, differences
   between AFDC and social security disability, etc.
 file: /courses/17-951-special-graduate-topic-in-political-science-political-behavior-fall-2005/9c4e921938c68bfb7f71b8c5f75ece58_4_policy.pdf
+file_size: 69645
 file_type: application/pdf
 learning_resource_types:
 - Readings
