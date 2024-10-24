@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains discussion questions related to american political
   system, and strategic voting.
-file: /courses/17-951-special-graduate-topic-in-political-science-political-behavior-fall-2005/d777008e81755f1560d01147d65336fa_11_minor_party.pdf
+file: /ol-ocw-studio-app/courses/17-951-special-graduate-topic-in-political-science-political-behavior-fall-2005/d777008e81755f1560d01147d65336fa_11_minor_party.pdf
 file_size: 83776
 file_type: application/pdf
 learning_resource_types:
