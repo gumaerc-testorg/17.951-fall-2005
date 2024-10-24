@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains discussion questions related to political acts,
   socioeconomic, civic voluntarism, and participation.
-file: /courses/17-951-special-graduate-topic-in-political-science-political-behavior-fall-2005/73b84092e5a8a1eaeda3154edc47e81d_1_participation.pdf
+file: /ol-ocw-studio-app/courses/17-951-special-graduate-topic-in-political-science-political-behavior-fall-2005/73b84092e5a8a1eaeda3154edc47e81d_1_participation.pdf
 file_size: 68754
 file_type: application/pdf
 learning_resource_types:

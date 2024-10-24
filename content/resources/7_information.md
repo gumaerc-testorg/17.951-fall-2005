@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains discussion questions related to political information,
   decisions, and skill set.
-file: /courses/17-951-special-graduate-topic-in-political-science-political-behavior-fall-2005/9300b044ec09cf2574107b0a76b7a9b4_7_information.pdf
+file: /ol-ocw-studio-app/courses/17-951-special-graduate-topic-in-political-science-political-behavior-fall-2005/9300b044ec09cf2574107b0a76b7a9b4_7_information.pdf
 file_size: 88265
 file_type: application/pdf
 learning_resource_types:
