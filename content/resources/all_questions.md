@@ -4,7 +4,7 @@ description: This resource contains discussion questions related to political ac
   voter turnouts, vote choice, participation-policy linkages, political information,
   media effects, political campaigns, congressional elections, sophisticated voting/minor
   party candidates, and partisan realignment.
-file: /ol-ocw-studio-app/courses/17-951-special-graduate-topic-in-political-science-political-behavior-fall-2005/c119edb3f1c879f03d4eb7b2b91dca43_all_questions.pdf
+file: /courses/17-951-special-graduate-topic-in-political-science-political-behavior-fall-2005/c119edb3f1c879f03d4eb7b2b91dca43_all_questions.pdf
 file_size: 143243
 file_type: application/pdf
 learning_resource_types:
