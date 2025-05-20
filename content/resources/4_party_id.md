@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/17-951-special-graduate-topic-in-political-science-political-behavior-fall-2005/174d020a2bad77b0c96d33f8a23ddd03_4_party_ID.pdf
+file: courses/17-951-special-graduate-topic-in-political-science-political-behavior-fall-2005/174d020a2bad77b0c96d33f8a23ddd03_4_party_ID.pdf
 file_size: 43603
 file_type: application/octet-stream
 learning_resource_types:
