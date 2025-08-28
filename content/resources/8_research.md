@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains discussion questions related to methodological
   problem.
-file: /courses/17-951-special-graduate-topic-in-political-science-political-behavior-fall-2005/35258039f4aa9c57ae864eb72bef6137_8_research.pdf
+file: /ol-ocw-studio-app/courses/17-951-special-graduate-topic-in-political-science-political-behavior-fall-2005/35258039f4aa9c57ae864eb72bef6137_8_research.pdf
 file_size: 69728
 file_type: application/pdf
 learning_resource_types:
