@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains discussion questions related to different models
   of vote choice.
-file: /ol-ocw-studio-app/courses/17-951-special-graduate-topic-in-political-science-political-behavior-fall-2005/bed8a409d7729512073f3ae989949906_6_vote_choice.pdf
+file: /courses/17-951-special-graduate-topic-in-political-science-political-behavior-fall-2005/bed8a409d7729512073f3ae989949906_6_vote_choice.pdf
 file_size: 81314
 file_type: application/pdf
 learning_resource_types:

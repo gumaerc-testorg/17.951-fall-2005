@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains discussion questions related to media, and internet.
-file: /ol-ocw-studio-app/courses/17-951-special-graduate-topic-in-political-science-political-behavior-fall-2005/14504522a30c8b393b2166f79518e25e_9_media.pdf
+file: /courses/17-951-special-graduate-topic-in-political-science-political-behavior-fall-2005/14504522a30c8b393b2166f79518e25e_9_media.pdf
 file_size: 62703
 file_type: application/pdf
 learning_resource_types:
